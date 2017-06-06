@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'scada';
+    src: url('../fonts/scada-bold.eot');
+    src: url('../fonts/scada-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/scada-bold.woff2') format('woff2'),
+         url('../fonts/scada-bold.woff') format('woff'),
+         url('../fonts/scada-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'scada';
+    src: url('../fonts/scada-bolditalic.eot');
+    src: url('../fonts/scada-bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/scada-bolditalic.woff2') format('woff2'),
+         url('../fonts/scada-bolditalic.woff') format('woff'),
+         url('../fonts/scada-bolditalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'scada';
+    src: url('../fonts/scada-italic.eot');
+    src: url('../fonts/scada-italic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/scada-italic.woff2') format('woff2'),
+         url('../fonts/scada-italic.woff') format('woff'),
+         url('../fonts/scada-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'scada';
+    src: url('../fonts/scada-regular.eot');
+    src: url('../fonts/scada-regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/scada-regular.woff2') format('woff2'),
+         url('../fonts/scada-regular.woff') format('woff'),
+         url('../fonts/scada-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
